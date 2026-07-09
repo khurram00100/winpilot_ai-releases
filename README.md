@@ -10,7 +10,7 @@ WinPilotAi is a modern Windows desktop application that combines multiple AI-pow
 
 ## 👨‍💻 Founder, Author & Lead Developer
 
-**Shamsheer Khan Khurram**
+**Shamsheer Khan Khurrum**
 
 I independently designed, architected, and developed WinPilotAi from the ground up, including the application architecture, UI/UX, backend integration, authentication system, AI workflows, database management, and deployment.
 
