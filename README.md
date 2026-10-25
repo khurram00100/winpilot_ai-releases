@@ -1,10 +1,12 @@
-# 🚀 WinPilotAi
+# WinPilot AI
 
 > **A Unified AI Workspace for Windows**
 
-WinPilotAi is a modern Windows desktop application that combines multiple AI-powered productivity tools into a single workspace. It is designed to eliminate the need to switch between different AI platforms by providing an intuitive, secure, and efficient desktop experience.
+WinPilot AI is a Windows desktop application that brings AI chat, document analysis, image understanding, conversation history, and productivity workflows into one workspace.
 
-> **This repository is intended for project showcase purposes only. The production source code is private.**
+**[View the product page](https://khurram00100.github.io/khanai.technology/winpilot.html)** · **[Get it from Microsoft Store](https://apps.microsoft.com/detail/9NKN32V0WPDZ)**
+
+> This is the official public showcase and packaging repository. The production application source code is private.
 
 ---
 
@@ -16,7 +18,7 @@ I independently designed, architected, and developed WinPilotAi from the ground 
 
 ---
 
-# 📌 Problem Statement
+## Problem
 
 AI users often rely on multiple tools for different tasks, such as chatting with AI, analyzing PDFs, understanding images, organizing conversations, and managing productivity.
 
@@ -31,7 +33,7 @@ This results in:
 
 ---
 
-# 💡 Solution
+## Solution
 
 WinPilotAi provides a unified AI desktop workspace where users can manage all AI-related tasks from one application.
 
@@ -39,7 +41,7 @@ The platform simplifies AI workflows by offering a modern Windows experience wit
 
 ---
 
-# ✨ Key Features
+## Key features
 
 * 🤖 AI Chat Workspace
 * 📄 PDF Document Analysis
@@ -58,7 +60,7 @@ The platform simplifies AI workflows by offering a modern Windows experience wit
 
 ---
 
-# 🛠️ Technology Stack
+## Technology stack
 
 ### Frontend
 
@@ -92,7 +94,7 @@ The platform simplifies AI workflows by offering a modern Windows experience wit
 
 ---
 
-# 🏗️ Project Architecture
+## Architecture
 
 ```text
                     WinPilotAi
@@ -128,9 +130,9 @@ The platform simplifies AI workflows by offering a modern Windows experience wit
 
 ---
 
-# 🎥 Demo
+## Product demo
 
-This repository includes demonstration videos showcasing:
+The product trailer and screenshots below demonstrate the released interface and core workflow.
 
 * Application Overview
 * Authentication
@@ -145,19 +147,19 @@ This repository includes demonstration videos showcasing:
 
 ---
 ---
-# Official Trailer Of WinpilotAI
+### Official WinPilot AI trailer
 
 https://github.com/user-attachments/assets/cf6973bd-cce9-4bb4-be9f-8101fb07d646
 
 ---
-# 📸 Screenshots
+## Screenshots
 
 <img width="1320" height="736" alt="IMG_0675" src="https://github.com/user-attachments/assets/4f7a0d00-d85a-42c8-affd-9a7d0c5e8b7e" />
 <img width="1320" height="657" alt="IMG_0676" src="https://github.com/user-attachments/assets/35ac7216-bd1a-46c2-80d3-5d968f475cba" />
 
 ---
 
-# 🔒 Source Code
+## Repository scope
 
 The production source code is intentionally kept private.
 
@@ -174,7 +176,7 @@ The repository exists to demonstrate:
 
 ---
 
-# 🎯 My Contributions
+## My contributions
 
 * Product Concept
 * System Architecture
@@ -192,49 +194,39 @@ The repository exists to demonstrate:
 
 ---
 
-# 📂 Repository Contents
+## Repository contents
 
 ```text
 .
-├── Demo/
-│   ├── Product Walkthrough
-│   ├── Feature Demonstration
-│   └── Application Showcase
-│
-├── Screenshots/
-│
-├── Documentation/
-│
-├── README.md
-└── LICENSE
+├── README.md          # Product overview, trailer, screenshots, and technical summary
+└── WinPilotAI.iss     # Inno Setup packaging configuration
 ```
 
 ---
 
-# 📜 License
+## Usage
 
-This repository is provided for demonstration and portfolio purposes only.
+This repository is provided for product demonstration and portfolio purposes.
 
 The source code is proprietary and is not licensed for redistribution, modification, or commercial use.
 
 ---
 
-# ⭐ About the Project
+## About the project
 
-WinPilotAi was created to provide a unified AI productivity experience for Windows users by integrating modern AI capabilities into a single desktop platform.
+WinPilot AI was created to provide a unified AI productivity experience for Windows users by integrating modern AI capabilities into a single desktop platform.
 
 The focus of the project is usability, performance, security, and an efficient AI-powered workflow.
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Shamsheer Khan Khurram**
 
-Founder, Author & Lead Developer — WinPilotAi
+Founder, Author & Lead Developer — WinPilot AI
 
-* 💼 LinkedIn: https://in.linkedin.com/in/shamsheer-khan-khurram
-* 🌐 Portfolio: https://khurram00100.github.io/khanai.technology/
-* 💻 GitHub: https://github.com/khurramkhan00100
-  Link Of Micrsoft Store
-* https://apps.microsoft.com/detail/9nkn32v0wpdz?ocid=webpdpshare
+* LinkedIn: https://www.linkedin.com/in/shamsheer-khan-khurram
+* GitHub: https://github.com/khurram00100
+* Portfolio: https://khurram00100.github.io/khanai.technology/
+* Microsoft Store: https://apps.microsoft.com/detail/9NKN32V0WPDZ
